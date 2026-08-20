@@ -190,6 +190,7 @@ SQL
 Excel
 Data Visualization
 Business Analytics
+```
 
 ## 🤝 Let's Connect
 
