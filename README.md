@@ -203,7 +203,7 @@ I am always open to connecting with professionals, recruiters, analysts, and fel
 👉 [Connect with me on LinkedIn](https://www.linkedin.com/in/rahul-raigar-data3293/)
 
 💻 **GitHub:**  
-👉[Explore My GitHub](https://github.com/RAHULRAIGAR)
+👉<a href="https://github.com/RAHULRAIGAR">Explore My GitHub</a>
 ---
 
 ⭐ Feedback
